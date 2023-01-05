@@ -2,6 +2,8 @@
 <h3 align="center">Solutions Architect (Pre-sales)</h3>
 <p align="center"><a href="https://twitter.com/medkrimi" target="blank"><img src="https://img.shields.io/twitter/follow/medkrimi?logo=twitter&style=for-the-badge" alt="medkrimi" /></a></p>
 
+![my-website-banner](/public/static/images/social-banner.png)
+
 - 🔭 I’m currently working on **solutions leveraging #saas #headless #composable #content and #commerce.**
 
 - 🌱 I’m currently learning a lot about **SaaS Product development, the JS/React Ecosystem, jamstack, MACH and low-code/no code approachs.**
