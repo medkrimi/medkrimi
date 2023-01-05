@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Krimi</h1>
-<h3 align="center">Solutions Architect (Pre-sales)</h3>
+![my-website-banner](https://www.medkrimi.net/_next/image?url=%2Fstatic%2Fimages%2Fsocial-banner.png&w=1920&q=75)
 <p align="center"><a href="https://twitter.com/medkrimi" target="blank"><img src="https://img.shields.io/twitter/follow/medkrimi?logo=twitter&style=for-the-badge" alt="medkrimi" /></a></p>
 
-![my-website-banner](https://www.medkrimi.net/_next/image?url=%2Fstatic%2Fimages%2Fsocial-banner.png&w=1920&q=75)
 
 - 🔭 I’m currently working on **solutions leveraging #saas #headless #composable #content and #commerce.**
 
