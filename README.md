@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **#commerce #nextjs #vercel #sitecorexmcloud #contenthub #contenthubone**
 
-- 📫 How to reach me **contact@medkrimi.net**
+- 📫 How to reach me DM by email **contact@medkrimi.net** or Twitter @medkrimi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
