@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **solutions leveraging #saas #headless #composable #content and #commerce.**
 
-- 🌱 I’m currently learning **a lot about SaaS Product development, the JS/React Ecosystem, jamstack, MACH and low-code/no code approachs.**
+- 🌱 I’m currently learning a lot about **SaaS Product development, the JS/React Ecosystem, jamstack, MACH and low-code/no code approachs.**
 
 - 👨‍💻 All of my projects are available at [https://medkrimi.net/projects](https://medkrimi.net/projects)
 
