@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Krimi</h1>
 <h3 align="center">Solutions Architect (Pre-sales)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medkrimi&label=Profile%20views&color=0e75b6&style=flat" alt="medkrimi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medkrimi" alt="medkrimi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/medkrimi" target="blank"><img src="https://img.shields.io/twitter/follow/medkrimi?logo=twitter&style=for-the-badge" alt="medkrimi" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=medkrimi&label=Profile%20views&color=0e75b6&style=flat" alt="medkrimi" /> <a href="https://twitter.com/medkrimi" target="blank"><img src="https://img.shields.io/twitter/follow/medkrimi?logo=twitter&style=for-the-badge" alt="medkrimi" /></a>
+</p>
 
 - 🔭 I’m currently working on **solutions leveraging #saas #headless #composable #content and #commerce.**
 
